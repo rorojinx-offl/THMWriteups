@@ -20,7 +20,7 @@
     - [**Wappalyzer**](https://www.wappalyzer.com/apps/)
     - [**Reverse Shell Cheat Sheet**](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
-##Write-Up
+## Write-Up
 
 - Let’s start with a `gobuster` scan to brute-force the directories and use a `dirbuster` wordlist from SecLists.
 
