@@ -1,13 +1,13 @@
 # Pickle Rick CTF
 
-# Introduction
+## Introduction
 
 - This is a Rick and Morty-themed webapp with certain vulnerabilities
 - I need to exploit a web server and find three ingredients (flags) to help Rick turn back to human from a pickle.
 
 ![image.png](Pickle%20Rick%20CTF%2019310321b95d8098b656c191e4afc0ce/image.png)
 
-# Prerequisites
+## Prerequisites
 
 - Knowledge
     - **Good grasp of Linux commands**
@@ -20,7 +20,7 @@
     - [**Wappalyzer**](https://www.wappalyzer.com/apps/)
     - [**Reverse Shell Cheat Sheet**](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
-# Write-Up
+##Write-Up
 
 - Let’s start with a `gobuster` scan to brute-force the directories and use a `dirbuster` wordlist from SecLists.
 
