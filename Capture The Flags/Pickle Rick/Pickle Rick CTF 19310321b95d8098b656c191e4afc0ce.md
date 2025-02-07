@@ -131,5 +131,3 @@ sudo php -r "system('$CMD');"
 - We can now enter `/root` and capture the final flag
 
 ![wubba.png](Pickle%20Rick%20CTF%2019310321b95d8098b656c191e4afc0ce/wubba%204.png)
-
-[https://lumbar-quokka-89c.notion.site/Pickle-Rick-CTF-19310321b95d8098b656c191e4afc0ce?pvs=4](https://www.notion.so/Pickle-Rick-CTF-19310321b95d8098b656c191e4afc0ce?pvs=21)
