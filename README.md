@@ -1,2 +1,2 @@
 # TryHackMe Writeups
-## [Capture The Flags](Capture%The%Flags/ctf_contents.md)
+## [Capture The Flags](capture_the_flags/ctf_contents.md)

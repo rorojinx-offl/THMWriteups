@@ -1,4 +1,4 @@
-# THM CTF Submissions
+# THM CTF Writeups
 
 
 ## Easy
