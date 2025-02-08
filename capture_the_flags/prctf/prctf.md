@@ -1,6 +1,8 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+<center>
 # Pickle Rick CTF
+</center>
 
 ## Introduction
 
